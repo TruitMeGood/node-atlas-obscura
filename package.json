@@ -1,6 +1,6 @@
 {
   "name": "node-atlas-obscura",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "An API Wrapper for Atlas Obscura",
   "main": "index.js",
   "scripts": {
