@@ -1,12 +1,12 @@
 {
   "name": "node-atlas-obscura",
   "version": "1.0.0",
-  "description": "",
+  "description": "An API Wrapper for Atlas Obscura",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Jérémie Zarca <jeremie.zarca@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "@sindresorhus/slugify": "^0.6.0",
