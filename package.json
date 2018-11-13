@@ -12,6 +12,7 @@
     "@sindresorhus/slugify": "^0.6.0",
     "axios": "^0.18.0",
     "cheerio": "^1.0.0-rc.2",
+    "instagram-web-api": "^2.0.0",
     "jquery": "^3.3.1",
     "jsdom": "^13.0.0"
   }
