@@ -36,3 +36,9 @@ If false, this method will also return places nearby this one
 ```js
 atlas.getPopular()
 ```
+
+### Search by keyword
+
+```js
+atlas.search(keyword)
+```
