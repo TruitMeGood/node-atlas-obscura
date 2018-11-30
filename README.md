@@ -31,6 +31,24 @@ If false, this method will also return places nearby this one
 */
 ```
 
+### Get tags for a city
+
+```js
+atlas.getTags({
+    city: 'Berlin',
+    country: 'Germany'
+})
+```
+
+### Get places by tag
+
+```js
+atlas.getPlacesByTag({
+    city: 'Berlin',
+    country: 'Germany'
+}, 'art')
+```
+
 ### Get most popular places
 
 ```js
