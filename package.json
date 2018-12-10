@@ -1,16 +1,16 @@
 {
-	"name": "node-atlas-obscura",
-	"version": "1.2.1",
-	"description": "An API Wrapper for Atlas Obscura",
-	"main": "index.js",
-	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1"
-	},
-	"author": "Jérémie Zarca <jeremie.zarca@gmail.com>",
-	"license": "ISC",
-	"dependencies": {
-		"@sindresorhus/slugify": "^0.6.0",
-		"axios": "^0.18.0",
-		"cheerio": "^1.0.0-rc.2"
-	}
+  "name": "node-atlas-obscura",
+  "version": "1.2.2",
+  "description": "An API Wrapper for Atlas Obscura",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jérémie Zarca <jeremie.zarca@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@sindresorhus/slugify": "^0.6.0",
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.2"
+  }
 }
