@@ -2,11 +2,16 @@
 
 An API Wrapper for Atlas Obscura
 
+## Installation
+```
+npm install --save node-atlas-obscura
+```
+
 ## Usage
 
 ```js
-const Atlas = require('node-atlas-obscura')
-const atlas = new Atlas()
+const Atlas = require('node-atlas-obscura');
+const atlas = new Atlas();
 ```
 
 ### Get places in a city
@@ -14,8 +19,8 @@ const atlas = new Atlas()
 ```js
 atlas.getPlaces({
     city: 'Berlin',
-    country: 'Germany'
-    orderByRecent = false
+    country: 'Germany',
+    orderByRecent: false
 })
 /*
 If true, this method will show most recent places added for this location
