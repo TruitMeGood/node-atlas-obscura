@@ -1,6 +1,6 @@
 {
   "name": "node-atlas-obscura",
-  "version": "1.2.6",
+  "version": "1.2.7",
   "description": "An API Wrapper for Atlas Obscura",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "@sindresorhus/slugify": "^0.6.0",
-    "axios": "^0.18.0",
+    "axios": "^0.19.0",
     "cheerio": "^1.0.0-rc.2"
   }
 }
