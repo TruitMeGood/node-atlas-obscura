@@ -11,7 +11,7 @@ async function init() {
         city: "Berlin",
         country: "Germany",
     });*/
-    const places = await atlas.getAllPlaces();
+    const places = await atlas.getUserList("jeremiezarca", "test", true);
     console.log(places);
 }
 

@@ -82,3 +82,15 @@ atlas.getAllPlaces();
 ```js
 atlas.search(keyword, isPlace = false);
 ```
+
+### Get user lists
+
+```js
+atlas.getUserLists(username);
+```
+
+### Get user list
+
+```js
+atlas.getUserList(username, listName);
+```
