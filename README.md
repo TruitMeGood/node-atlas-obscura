@@ -71,6 +71,12 @@ atlas.getPlacesByTag({
 atlas.getPopular();
 ```
 
+### Get all places
+
+```js
+atlas.getAllPlaces();
+```
+
 ### Search by keyword
 
 ```js
